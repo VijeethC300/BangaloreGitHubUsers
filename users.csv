@@ -1,0 +1,2 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+GITU01,User01,Company Zen,Bangalore,user@email.com,Yes,Developer since 10 years,Repo1,610,62,December 2021
