@@ -3,6 +3,7 @@
 
 * Data Scraping: Data was scraped using Python code run on GoogleColab. GitHub token was used.
 * The most interesting and surprising facts:
+* 
     a) Out of 593 users, 28 users [4.7% ]are of Organization/Group Type eg Zerodha. Rest are Individual users [95.3%]
   
     b) Though Pascal Language has the highest average number of stars per repository, it was used in only One repository [0.002% repo share]
