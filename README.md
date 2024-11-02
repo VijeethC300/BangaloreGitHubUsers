@@ -1,7 +1,7 @@
 # Scraping of GitHub users using GitHub API and Data Analysis (Bangalore)
 ## Description
 
-* Data Scraping: Data was scraped using Python code run on GoogleColab. GitHub token was used. Data Analysis was done using Excel [Functions, Filters and Pivot tables. The Analysis file is uploaded. The code used scrape the data is included in file <ScrapeData.py>. This file is attached
+* Data Scraping: Data was scraped using Python (pandas) run on GoogleColab. GitHub token was used. Data Analysis was done using Excel [Functions, Filters and Pivot tables. The Analysis file is uploaded. The code used scrape the data is included in file <ScrapeData.py>. This file is attached
 
 Note: Have uploaded the code to github today as suggested by Anand sir. Discourse link <https://discourse.onlinedegree.iitm.ac.in/t/official-announcement-project-1-peer-evaluation/155218/8?u=22f3003121>
 
